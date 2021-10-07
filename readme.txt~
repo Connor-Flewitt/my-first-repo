@@ -1,8 +1,0 @@
-Welcome to my first repo
-Learning Git is going well so far.
-<<<<<<< HEAD
-The third line.!!! SECOND VERSION FOR CONFLICT!!
-=======
-The third line!!!!! DELIBERATE CONFLICT LINE!!!!.
->>>>>>> update-readme
-I added this line in the update-readme branch.
